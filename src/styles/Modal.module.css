@@ -1,0 +1,28 @@
+.modal {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.card {
+	width: 300px;
+}
+
+.cardInputItem {
+	width: 100%;
+	margin-top: 20px;
+}
+
+.modalHeader {
+	background-color: #1666BF;
+}
+
+.buttons {
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+.buttons button {
+	margin: 5px;
+}

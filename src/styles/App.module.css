@@ -1,0 +1,25 @@
+.card {
+  margin: 10px;
+}
+
+.frameworks {
+  background-color: #1565C0;
+  color: #fff;
+  text-align: center;
+}
+
+.table {
+  box-shadow: none;
+}
+
+.tableHeader {
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  max-width: 100px;
+}
